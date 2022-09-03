@@ -1,0 +1,3 @@
+/home/Daniel/Projects/C++/temp-calculator/cmake-build-debug/CMakeFiles/temp_calculator.dir
+/home/Daniel/Projects/C++/temp-calculator/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/Daniel/Projects/C++/temp-calculator/cmake-build-debug/CMakeFiles/rebuild_cache.dir

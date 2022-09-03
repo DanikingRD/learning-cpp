@@ -1,0 +1,13 @@
+# ninja log v5
+0	237	1662243310219886130	CMakeFiles/temp_calculator.dir/main.cpp.o	c0519e94cfc22aca
+238	274	1662243310255886590	temp_calculator	c5cbb0544cc0e1b8
+1	236	1662243328869124641	CMakeFiles/temp_calculator.dir/main.cpp.o	c0519e94cfc22aca
+236	272	1662243328906125115	temp_calculator	c5cbb0544cc0e1b8
+1	232	1662243366600607197	CMakeFiles/temp_calculator.dir/main.cpp.o	c0519e94cfc22aca
+232	270	1662243366636607658	temp_calculator	c5cbb0544cc0e1b8
+1	236	1662243801634170981	CMakeFiles/temp_calculator.dir/main.cpp.o	c0519e94cfc22aca
+236	273	1662243801670171441	temp_calculator	c5cbb0544cc0e1b8
+0	240	1662243824666465544	CMakeFiles/temp_calculator.dir/main.cpp.o	c0519e94cfc22aca
+240	278	1662243824703466017	temp_calculator	c5cbb0544cc0e1b8
+0	241	1662243836834621164	CMakeFiles/temp_calculator.dir/main.cpp.o	c0519e94cfc22aca
+241	278	1662243836870621624	temp_calculator	c5cbb0544cc0e1b8
